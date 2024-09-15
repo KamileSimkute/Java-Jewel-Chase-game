@@ -9,7 +9,7 @@ Java SDK 17+: The project requires Java 17 or higher.
 JavaFX SDK: Ensure that JavaFX is properly set up for GUI components.
 Installation Instructions
 Clone or Download the Repository:
-git clone https://github.com/your-username/Java-Jewel-Chase-game.git
+git clone https://github.com/KamileSimkute/Java-Jewel-Chase-game.git
 Set Up Java and JavaFX
 
 Ensure that Java and JavaFX are installed on your system.
