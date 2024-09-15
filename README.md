@@ -1,6 +1,6 @@
 # README
 # Java-Jewel-Chase-game
-# Software Engineering - Assignment A2
+# Software Engineering - Assignment 
 Overview
 This project is part of a Software Engineering course and involves the development of a Java-based application with a graphical user interface (GUI) using JavaFX. The application, named Jewel Chase, is designed following a set of functional specifications and implements core gameplay features.
 
